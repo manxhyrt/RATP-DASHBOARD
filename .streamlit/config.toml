@@ -1,0 +1,13 @@
+[theme]
+base="light"
+backgroundColor="ghostWhite"
+secondaryBackgroundColor="ghostWhite"
+codeBackgroundColor="ghostWhite"
+textColor="#333333"
+
+[theme.sidebar]
+primarycolor="#06B59C"
+backgroundColor="#00319C"   
+secondaryBackgroundColor="#06B59C"
+textColor="ghostWhite"
+borderColor="ghostWhite"
